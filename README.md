@@ -1,1 +1,4 @@
 # fde-learning-log
+
+This repository is my working record of a 26-week, self-directed path from Data Science Consulting into Forward Deployed Engineering, starting 21 September 2026. I'm coming in with intermediate Python and SQL and no formal engineering background, so the early weeks cover fundamentals — Git, the shell, testing, FastAPI, Docker, cloud deployment — before moving into RAG, agents, enterprise security, and two end-to-end client-style projects built on Databricks. Everything here is public on purpose: the code, the weekly logs in `weekly-log/`, and the interview story bank in `stories.md`, including the
+weeks where things didn't work. The plan itself, and the reasoning behind its ordering, lives in the project docs and gets revised at fixed checkpoints rather than whenever I feel like it.
